@@ -1,0 +1,64 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Net-Code",
+      "slug": "Code Online",
+      "description": "A NextJS'14 and Tailwind CSS based online code editor which supports downloading code",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "github": "https://github.com/Its-Aman-Yadav/Net-Code",
+      "livelink": "https://net-code-ashen.vercel.app/",
+      "image": "/projects/NetCode.JPG"
+    },
+    {
+      "id": 2,
+      "title": "AI-Assist",
+      "slug": "AI Companion",
+      "description": "ReactJS and Gemini API based project which answers to all your queries",
+      "price": 109.99,
+      "instructor": "Jane Smith",
+      "isFeatured": false,
+      "github": "https://github.com/Its-Aman-Yadav/AI-Assist",
+      "livelink": "https://ai-assist.vercel.app/",
+      "image": "/projects/AIAssist.JPG"
+    },
+    {
+      "id": 3,
+      "title": "Hustle-Xpress",
+      "slug": "Simple Static Website",
+      "description": "Simple Static Website built using HTML, CSS, JS",
+      "price": 119.99,
+      "instructor": "Emily Johnson",
+      "github": "https://github.com/Its-Aman-Yadav/HustleXpress",
+      "livelink": "https://hustle-xpress-its-aman-yadavs-projects.vercel.app/",
+      "isFeatured": true,
+      "image": "/projects/HX.JPG"
+    },
+    {
+      "id": 4,
+      "title": "U-Blog",
+      "slug": "Blog for Everyone",
+      "description": "Full Stack Blogging site built using ExpressJS, MongoDB, Mongoose, Bootstrap",
+      "price": 129.99,
+      "instructor": "Mike Brown",
+      "github": "https://github.com/Its-Aman-Yadav/Blogging-Site",
+      "livelink": "https://www.linkedin.com/posts/itsamanyadav18_blogging-project-technicalwriting-activity-7059886596967301120-oYcE?utm_source=share&utm_medium=member_desktop",
+      "isFeatured": false,
+      "image": "/projects/blog.jpg"
+    },
+    {
+      "id": 5,
+      "title": "To Do List",
+      "slug": "jazz-improvisation",
+      "description": "Simple to do list app built using ExpressJS, EJS, MongoDB",
+      "price": 139.99,
+      "instructor": "Chris Davis",
+      "github": "https://github.com/Its-Aman-Yadav/To-Do-List",
+      "livelink": "https://www.linkedin.com/posts/itsamanyadav18_fullstack-css-html-activity-7055424199665827840-vMjk?utm_source=share&utm_medium=member_desktop",
+      "isFeatured": false,
+      "image": "/projects/todo.jpg"
+    }
+  ]
+}
