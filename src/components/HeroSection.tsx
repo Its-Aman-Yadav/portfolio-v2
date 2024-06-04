@@ -37,7 +37,7 @@ function HeroSection() {
               <Button
                  borderRadius="1.75rem"
                  className="bg-white dark:bg-black text-black dark:text-white border-neutral-200 dark:border-slate-800"
-                 onClick={() => window.open("https://drive.google.com/file/d/1HJtm6e_OeoKk-E0IcZWtI0dQ8dSW_d-j/view?usp=drive_link", "_blank")}
+                 onClick={() => window.open("https://drive.google.com/file/d/1HJtm6e_OeoKk-E0IcZWtI0dQ8dSW_d-j/view?usp=sharing", "_blank")}
                  >
                   Chekout Resume
              </Button>
