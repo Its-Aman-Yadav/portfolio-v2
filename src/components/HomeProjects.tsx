@@ -27,7 +27,7 @@ export const products = [
     title: "Instafocus-Pro",
     link:"https://github.com/Its-Aman-Yadav/InstaFocus-Pro",
     thumbnail: "/projects/instafocus.jpg"
-  }
+  },
   {
     title: "Hustle-Xpress",
     link: "https://hustle-xpress-its-aman-yadavs-projects.vercel.app/",
