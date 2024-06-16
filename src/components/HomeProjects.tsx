@@ -14,6 +14,21 @@ export const products = [
     thumbnail: "/projects/AIAssist.JPG",
   },
   {
+    title: "Algo Visualizer",
+    link: "https://github.com/Its-Aman-Yadav/Algo-Visualizer",
+    thumbnail: "/projects/algo.jpg"
+  },
+  {
+    title: "FindGit",
+    link: "https://github.com/Its-Aman-Yadav/Find-Git",
+    thumbnail: "/projects/gitfind.jpg"
+  },
+  {
+    title: "Instafocus-Pro",
+    link:"https://github.com/Its-Aman-Yadav/InstaFocus-Pro",
+    thumbnail: "/projects/instafocus.jpg"
+  }
+  {
     title: "Hustle-Xpress",
     link: "https://hustle-xpress-its-aman-yadavs-projects.vercel.app/",
     thumbnail: "/projects/HX.JPG",

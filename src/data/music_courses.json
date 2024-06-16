@@ -12,8 +12,50 @@
       "livelink": "https://net-code-ashen.vercel.app/",
       "image": "/projects/NetCode.JPG"
     },
+
     {
       "id": 2,
+      "title": "Algo Visualizer",
+      "slug": "algo in action",
+      "description": "Visualize Sorting Algorithms in real time built using NextJS, Typescript",
+      "price": 139.99,
+      "instructor": "Chris Davis",
+      "github": "https://github.com/Its-Aman-Yadav/Algo-Visualizer",
+      "livelink": "https://algo-visualizer-phi.vercel.app/",
+      "isFeatured": false,
+      "image": "/projects/algo.jpg"
+    }
+
+    {
+      "id": 3,
+      "title": "Find-Git",
+      "slug": "jazz-improvisation",
+      "description": "Find details of a Github account by its username",
+      "price": 139.99,
+      "instructor": "Chris Davis",
+      "github": "https://github.com/Its-Aman-Yadav/Find-Git",
+      "livelink": "https://github.com/Its-Aman-Yadav/Find-Git",
+      "isFeatured": false,
+      "image": "/projects/gitfind.jpg"
+    }
+
+    {
+      "id": 4,
+      "title": "InstaFocus Pro",
+      "slug": "jazz-improvisation",
+      "description": "Chrome extension to block Instagram distractions (Reels, Posts, Stories)",
+      "price": 139.99,
+      "instructor": "Chris Davis",
+      "github": "https://github.com/Its-Aman-Yadav/InstaFocus-Pro",
+      "livelink": "https://github.com/Its-Aman-Yadav/InstaFocus-Pro",
+      "isFeatured": false,
+      "image": "/projects/instafocus.jpg"
+    }
+
+
+
+    {
+      "id": 5,
       "title": "AI-Assist",
       "slug": "AI Companion",
       "description": "ReactJS and Gemini API based project which answers to all your queries",
@@ -25,7 +67,7 @@
       "image": "/projects/AIAssist.JPG"
     },
     {
-      "id": 3,
+      "id": 6,
       "title": "Hustle-Xpress",
       "slug": "Simple Static Website",
       "description": "Simple Static Website built using HTML, CSS, JS",
@@ -37,7 +79,7 @@
       "image": "/projects/HX.JPG"
     },
     {
-      "id": 4,
+      "id": 7,
       "title": "U-Blog",
       "slug": "Blog for Everyone",
       "description": "Full Stack Blogging site built using ExpressJS, MongoDB, Mongoose, Bootstrap",
@@ -49,7 +91,7 @@
       "image": "/projects/blog.jpg"
     },
     {
-      "id": 5,
+      "id": 8,
       "title": "To Do List",
       "slug": "jazz-improvisation",
       "description": "Simple to do list app built using ExpressJS, EJS, MongoDB",
