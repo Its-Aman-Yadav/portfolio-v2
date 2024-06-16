@@ -24,7 +24,7 @@
       "livelink": "https://algo-visualizer-phi.vercel.app/",
       "isFeatured": false,
       "image": "/projects/algo.jpg"
-    }
+    },
 
     {
       "id": 3,
@@ -37,7 +37,7 @@
       "livelink": "https://github.com/Its-Aman-Yadav/Find-Git",
       "isFeatured": false,
       "image": "/projects/gitfind.jpg"
-    }
+    },
 
     {
       "id": 4,
@@ -50,7 +50,7 @@
       "livelink": "https://github.com/Its-Aman-Yadav/InstaFocus-Pro",
       "isFeatured": false,
       "image": "/projects/instafocus.jpg"
-    }
+    },
 
 
 
